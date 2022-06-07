@@ -1,0 +1,7 @@
+[
+    {"month": "Jan", "efficiency": 24.3, "sales": 10},
+    {"month": "Feb", "efficiency": 27.6, "sales": 20},
+    {"month": "March", "efficiency": 28, "sales": 30},
+    {"month": "April", "efficiency": 28.4, "sales": 40},
+    {"month": "May", "efficiency": 27.9, "sales": 50}
+]

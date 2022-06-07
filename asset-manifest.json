@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/learningReact_barChart-jsondata/static/css/main.073c9b0a.css",
+    "main.js": "/learningReact_barChart-jsondata/static/js/main.e16e320a.js",
+    "index.html": "/learningReact_barChart-jsondata/index.html",
+    "main.073c9b0a.css.map": "/learningReact_barChart-jsondata/static/css/main.073c9b0a.css.map",
+    "main.e16e320a.js.map": "/learningReact_barChart-jsondata/static/js/main.e16e320a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e16e320a.js"
+  ]
+}
